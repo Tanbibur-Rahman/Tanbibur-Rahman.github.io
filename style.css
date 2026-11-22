@@ -1,6 +1,6 @@
 :root{
   --bg:#f4f7f9; --surface:#fff; --ink:#15212b; --muted:#5b6b78; --line:#dce4ea;
-  --accent:#0e7490; --accent-2:#b45309; --accent-soft:#e0f2f6;
+  --accent:#8534F3; --accent-2:#b45309; --accent-soft:#f0e7fe;
   --serif:'Source Serif 4',Georgia,serif; --sans:'DM Sans',system-ui,sans-serif;
   color-scheme:light;
 }
